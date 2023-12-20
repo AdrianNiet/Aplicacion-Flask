@@ -14,4 +14,4 @@ Crear una APP desde cero utilizando flask, crear los endpoints necesarios para q
 
 Aqui es donde tengo la aplicacion desplegada, su nombre es "mi-app-flask"
 
-Enlace: [Click aqui para ver el docker hub]([URL_del_enlace](https://hub.docker.com/)
+Enlace: [Click aqui para ver el docker hub](https://hub.docker.com/)
